@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "jest test.js"
+  },
+  "dependencies": {
+    "fibers": "^2.0.0"
+  },
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
